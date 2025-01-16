@@ -1,0 +1,17 @@
+[ [ "Pb2.Chitara", {
+  "producator" : "cine",
+  "pret" : 5533.0,
+  "nrCorzi" : 6,
+  "tipChitara" : "ACUSTICA",
+  "tip_chitara" : "ACUSTICA",
+  "nr_corzi" : 6
+} ], [ "Pb2.SetTobe", {
+  "producator" : "ceadf",
+  "pret" : 4322.0,
+  "tipTobe" : "ELECTRONICE",
+  "nrTobe" : 6,
+  "nrCinele" : 4,
+  "tip_tobe" : "ELECTRONICE",
+  "nr_tobe" : 6,
+  "nr_cinele" : 4
+} ] ]
