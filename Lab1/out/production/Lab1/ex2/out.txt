@@ -1,0 +1,4 @@
+suma = 27
+medie = 4
+val min = 2
+val max = 8
