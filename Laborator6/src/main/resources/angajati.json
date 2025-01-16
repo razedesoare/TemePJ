@@ -1,0 +1,12 @@
+[
+  {"nume": "Mihai", "postul": "manager IT", "data_angajarii": "2021-05-15", "salariul": 9500.0},
+  {"nume": "Maria", "postul": "asistent manager", "data_angajarii": "2020-09-23", "salariul": 4200.0},
+  {"nume": "George", "postul": "analist financiar", "data_angajarii": "2022-03-09", "salariul": 6200.0},
+  {"nume": "Elena", "postul": "secretar", "data_angajarii": "2018-07-18", "salariul": 3200.0},
+  {"nume": "Andrei", "postul": "designer grafic", "data_angajarii": "2021-11-30", "salariul": 5200.0},
+  {"nume": "Diana", "postul": "sef inginer", "data_angajarii": "2019-02-25", "salariul": 5400.0},
+  {"nume": "Ion", "postul": "tehnician hardware", "data_angajarii": "2020-08-10", "salariul": 3700.0},
+  {"nume": "Florin", "postul": "programator junior", "data_angajarii": "2022-01-05", "salariul": 4000.0},
+  {"nume": "Claudia", "postul": "director marketing", "data_angajarii": "2023-06-13", "salariul": 7800.0},
+  {"nume": "Viorica", "postul": "responsabil suport tehnic", "data_angajarii": "2023-03-25", "salariul": 3500.0}
+]
